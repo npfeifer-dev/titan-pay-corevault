@@ -1,5 +1,7 @@
 # Titan Pay: CoreVault Enterprise Risk Engine & Reconciliation Dashboard
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://titan-pay-corevault.streamlit.app)
+
 ## Executive Summary
 Following the strategic acquisition of a regional payment processing entity, Titan Pay faced a critical operational challenge: integrating fragmented, legacy accounting systems into a unified risk framework. The acquired firm relied heavily on manual, Excel-driven reconciliations, creating severe reporting lags, regulatory compliance risks, and unmonitored concentration exposure across corporate counterparties.
 
